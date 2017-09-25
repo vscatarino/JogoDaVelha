@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/vinicius/.android/build-cache/b1efbf671ac4cd00ebf44434e7509a6c87609b54/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/vinicius/APP/JogodaVelha/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-69005ec221f23d1940d8d4333c43a21ced3a3980.jar" />
+    </item>
+    <item
+        jar="/home/vinicius/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/vinicius/APP/JogodaVelha/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-24.0.0-eed0c52286a296bff9330818a6e7c5a52cc9d68f.jar" />
+    </item>
+    <item
+        jar="/home/vinicius/.android/build-cache/73f359ec192d5158dc6feddbaaae6a578856e41a/output/jars/libs/internal_impl-24.0.0.jar"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/vinicius/APP/JogodaVelha/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.0.0-7674a767a3ab203ab0815847ad2c1cd47115da52.jar" />
+    </item>
+    <item
+        jar="/home/vinicius/.android/build-cache/73f359ec192d5158dc6feddbaaae6a578856e41a/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/vinicius/APP/JogodaVelha/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-1cd60a8f13aed1a256d1e644abd8c412b0c7d533.jar" />
+    </item>
+    <item
+        jar="/home/vinicius/.android/build-cache/8636ae490697f9c3e381b6212f639ef94465158b/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/vinicius/APP/JogodaVelha/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-1435e49a0a0e684f9c5a331e8ca3fab1d447c73f.jar" />
+    </item>
+    <item
+        jar="/home/vinicius/.android/build-cache/d792ca532a4e4304af0aa91018246c6fad45bf51/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/vinicius/APP/JogodaVelha/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-590bca696d99e5f1a3cc0105d62e9d6fb55741c0.jar" />
+    </item>
+    <item
+        jar="/home/vinicius/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/vinicius/APP/JogodaVelha/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.2-7557eea49393823c366cc296398610f28b04e3d6.jar" />
+    </item>
+    <item
+        jar="/home/vinicius/.android/build-cache/c8b8eed6b6f8f1f75087a8097f02a5a36124ebea/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/vinicius/APP/JogodaVelha/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f46212c7f087ff0990d29b8b3678931174d477da.jar" />
+    </item>
+
+</items>

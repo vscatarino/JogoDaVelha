@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_nivel"
+        android:title="nivel"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/menu_nivel1"
+                android:title="fácil"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/menu_nivel2"
+                android:title="médio"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/menu_nivel3"
+                android:title="difícil"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+    </menu>
+
